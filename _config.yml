@@ -1,0 +1,28 @@
+name: Testing Again Number 2
+favicon: null
+layout_spectrum: 0.5028119862545282
+typography_spectrum: 0.7983822037931532
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7559370473027229
+  lightness: 0.7397601725533605
+  saturation: 0.8300351125653833
+  rhythmicContrast: 0.6867672328371555
+purpose: []
